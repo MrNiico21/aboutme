@@ -12,7 +12,6 @@
         <header>
             <h1>About me</h1>
             <h3><i> MrNiico21</i></h3>
-            <h5><i>~1 minute</i></h5>
             <hr>
         </header>
         <nav>
