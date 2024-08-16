@@ -11,7 +11,7 @@
     <div id="page">
         <header>
             <h1>About me</h1>
-            <h3><i> MrNiico21</i></h3>
+            <h3><i> MrNico21</i></h3>
             <hr>
         </header>
         <nav>
